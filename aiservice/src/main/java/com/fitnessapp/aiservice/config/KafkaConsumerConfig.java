@@ -1,7 +1,6 @@
 package com.fitnessapp.aiservice.config;
 
 import com.fitnessapp.aiservice.dto.AIServiceRequestDto;
-import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.kafka.config.ConcurrentKafkaListenerContainerFactory;
